@@ -1,6 +1,6 @@
 # Hallsonware
 
-Written in JScript (No. This is not JavaScript).
+Written in JScript.
 
 #### Português
 
