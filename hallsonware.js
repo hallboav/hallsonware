@@ -7,7 +7,7 @@
  *
  * Author:      Hallison Boaventura
  * Date:        20/06/2016
- * Description: Known as Ransonware.
+ * Description: Known as Ransomware.
  *              Able to affect only Windows systems.
  *              This is just a challenge I made to myself.
  *              ONLY TEST THIS SOFTWARE IN A CONTROLLED ENVIRONMENT.
